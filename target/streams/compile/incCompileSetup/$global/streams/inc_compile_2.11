@@ -1,0 +1,298 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.5
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+14 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application$.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application$delayedInit$body.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$1.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$2.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$3.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$4.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$5.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$6.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$7.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$8.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$sortByLengthOfWords$1.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$weanPunctuation$1.class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats.class
+binary dependencies:
+6 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /home/blackjack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /usr/lib/jvm/jdk1.8.0_91/jre/lib/rt.jar
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /home/blackjack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /usr/lib/jvm/jdk1.8.0_91/jre/lib/rt.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> /home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+14 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> zec18.scala.com.flequesboard.apps.system.Application
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> zec18.scala.com.flequesboard.apps.system.Application$
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> zec18.scala.com.flequesboard.apps.system.Application$delayedInit$body
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$1
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$2
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$3
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$4
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$5
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$6
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$7
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$8
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$sortByLengthOfWords$1
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18.scala.com.flequesboard.apps.system.TextStats$$anonfun$weanPunctuation$1
+used names:
+138 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> <init>
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> <repeated>
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> >
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Any
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> App
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Application
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Boolean
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Double
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Object
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Predef
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> String
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> StringContext
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> TextStats
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> Unit
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> apps
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> com
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> flequesboard
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> getWeanedWordsRatio
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> println
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> s
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> scala
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> sensibilityRate
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> songFile
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> stopWordsFile
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> system
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> textStats
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> zec18
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> +
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> /
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> <init>
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> <repeated>
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Any
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> AnyRef
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Array
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> ArrayOps
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> B
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Boolean
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Broadcast
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Builder
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Class
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> ClassTag
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Double
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Function1
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Function2
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Int
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> K
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Long
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Nothing
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Object
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Ordering
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> PairRDDFunctions
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Predef
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> RDD
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Seq
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Set
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> SparkContext
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> SparkSession
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> String
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> T
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> T1
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> T2
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> TextStats
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> TraversableOnce
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Tuple2
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> U
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> Unit
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> V
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> WrappedArray
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> _$7
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> _2
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> a
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> accumulator
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> allTextCount
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> allWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> apache
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> appName
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> apply
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> apps
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> ascending
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> broadcast
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> broadcastStopWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> builder
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> cleanedWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> collect
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> com
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> contains
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> count
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> filter
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> flatMap
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> flequesboard
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> getAllWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> getOrCreate
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> isEmpty
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> length
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> map
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> master
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> materializeClassTag
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> math
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> n
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> org
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> package
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> parallelize
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> punctuationStrippedWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> qual$1
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> rdd
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> rddToPairRDDFunctions
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> reduceByKey
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> refArrayOps
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> replaceAll
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> scala
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> sortBy
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> spark
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> sparkContext
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> split
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> sql
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> src
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> stop
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> stopFile
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> stopWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> stopWordsFile
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> system
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> text
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> textFile
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> toDouble
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> toLowerCase
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> toSet
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> trim
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> unary_!
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> value
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> weanPunctuation
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> weanStopWords
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> weanedTextCount
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> word
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> wrapRefArray
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> x$3
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> x$4
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> x$5
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> zec18
+product stamps:
+14 items
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application$.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application$delayedInit$body.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/Application.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$1.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$2.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$3.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$4.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$5.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$6.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$7.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$8.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$sortByLengthOfWords$1.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats$$anonfun$weanPunctuation$1.class -> lastModified(1530724219000)
+/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes/zec18/scala/com/flequesboard/apps/system/TextStats.class -> lastModified(1530724219000)
+source stamps:
+2 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> hash(644e96ecf3654774d40ab2116b7e9d8c00b5a27d)
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> hash(70baf75833eb16a1457feaeab3d5395e43cd4bb1)
+binary stamps:
+4 items
+/home/blackjack/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> lastModified(1498869279000)
+/home/blackjack/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> lastModified(1498869654000)
+/home/blackjack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> lastModified(1420590731000)
+/usr/lib/jvm/jdk1.8.0_91/jre/lib/rt.jar -> lastModified(1459498012000)
+class names:
+4 items
+/home/blackjack/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar -> org.apache.spark.rdd.PairRDDFunctions
+/home/blackjack/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar -> org.apache.spark.sql.SparkSession$
+/home/blackjack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar -> scala.reflect.package$
+/usr/lib/jvm/jdk1.8.0_91/jre/lib/rt.jar -> java.lang.Object
+internal apis:
+2 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhw9Kc1ywAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAdc3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hw6TZeF3QACHNvbmdGaWxlc3EAfgAMrhTSgHQABm5vdGlmeXNxAH4ADI2ekcJ0AAR3YWl0c3EAfgAM9XxqOHQADSRhc0luc3RhbmNlT2ZzcQB+AAxNm72JdAAGZXF1YWxzc3EAfgAMJw3WA3QADGFzSW5zdGFuY2VPZnNxAH4ADNbMszN0AA5leGVjdXRpb25TdGFydHNxAH4ADIeu4Ht0AAxzeW5jaHJvbml6ZWRzcQB+AAwpA/KDdAANJGlzSW5zdGFuY2VPZnNxAH4ADFCZEAd0AA1zdG9wV29yZHNGaWxlc3EAfgAM/omwvHQABG1haW5zcQB+AAwvJRjZdAAJbm90aWZ5QWxsc3EAfgAM4f/VE3QADGlzSW5zdGFuY2VPZnNxAH4ADOHhKTl0AAI9PXNxAH4ADMBualV0AAVjbG9uZXNxAH4ADEE0WNV0AAtBcHBsaWNhdGlvbnNxAH4ADPX6vBl0AAYkaW5pdCRzcQB+AAw9E7bAdAAIdG9TdHJpbmdzcQB+AAyAJzcRdAAEYXJnc3NxAH4ADHLwRXN0AAl0ZXh0U3RhdHNzcQB+AAxDBfnndAACIT1zcQB+AAxbm7LydAAIZ2V0Q2xhc3NzcQB+AAwQWDlgdAAPc2Vuc2liaWxpdHlSYXRlc3EAfgAMyJjnsXQAAm5lc3EAfgAMscodBHQAAmVxc3EAfgAMUJ7k4nQAC2RlbGF5ZWRJbml0c3EAfgAMV1gIbnQAAiMjc3EAfgAMsAIb13QACGZpbmFsaXplc3EAfgAMOQAThXQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AUXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzl+dh3BMme7MCAAFCAAVmbGFnc3hwAHQANHplYzE4LnNjYWxhLmNvbS5mbGVxdWVzYm9hcmQuYXBwcy5zeXN0ZW0uQXBwbGljYXRpb251cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAac2NhbGEuZGVwcmVjYXRlZE92ZXJyaWRpbmd0ABBzY2FsYS5kZXByZWNhdGVkc3IAIXhzYnRpLmFwaS5BYnN0cmFjdExhenkkU3RyaWN0TGF6eQ1mHGspFiq4AgABTAAFdmFsdWV0ABJMamF2YS9sYW5nL09iamVjdDt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AGtzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AUUwACWluaGVyaXRlZHEAfgBRTAAHcGFyZW50c3EAfgBReHEAfgBwc3EAfgBrdXEAfgBMAAAAAHNxAH4Aa3VxAH4ATAAAAAFzcgANeHNidGkuYXBpLkRlZlK+n+J8tDZpAgACTAAKcmV0dXJuVHlwZXQAEEx4c2J0aS9hcGkvVHlwZTtbAA92YWx1ZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9QYXJhbWV0ZXJMaXN0O3hxAH4AUnEAfgBbdXEAfgBcAAAAAXNyABR4c2J0aS5hcGkuQW5ub3RhdGlvbt4OgaL2XAqyAgACWwAJYXJndW1lbnRzdAAfW0x4c2J0aS9hcGkvQW5ub3RhdGlvbkFyZ3VtZW50O0wABGJhc2VxAH4AenhwdXIAH1tMeHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudDtRnaaPOCUPeAIAAHhwAAAAAXNyABx4c2J0aS5hcGkuQW5ub3RhdGlvbkFyZ3VtZW501kWx2AMbF3wCAAJMAARuYW1lcQB+AA1MAAV2YWx1ZXEAfgANeHB0AAB0ACooIm1haW4gc2hvdWxkIG5vdCBiZSBvdmVycmlkZGVuIiwiMi4xMS4wIilzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBvdAAUZGVwcmVjYXRlZE92ZXJyaWRpbmdzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AG9zcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AJRzcQB+AF4AcQB+ACN1cQB+AGEAAAAAc3EAfgCHdAAEVW5pdHEAfgCNdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckxpc3Q79dM6HfKzcO4CAAB4cAAAAAFzcgAXeHNidGkuYXBpLlBhcmFtZXRlckxpc3TWxbwcZEl04wIAAloACmlzSW1wbGljaXRbAApwYXJhbWV0ZXJzdAAcW0x4c2J0aS9hcGkvTWV0aG9kUGFyYW1ldGVyO3hwAHVyABxbTHhzYnRpLmFwaS5NZXRob2RQYXJhbWV0ZXI7z7jFXaXdtW0CAAB4cAAAAAFzcgAZeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlch9FrhfTSbDqAgAEWgAKaGFzRGVmYXVsdEwACG1vZGlmaWVydAAdTHhzYnRpL2FwaS9QYXJhbWV0ZXJNb2RpZmllcjtMAARuYW1lcQB+AA1MAAN0cGVxAH4AenhwAH5yABt4c2J0aS5hcGkuUGFyYW1ldGVyTW9kaWZpZXIAAAAAAAAAABIAAHhxAH4AZHQABVBsYWlucQB+ADNzcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AIhbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AG9zcQB+AId0AAVBcnJheXEAfgCNdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAFzcQB+AId0AAZTdHJpbmdzcQB+AItzcQB+AI51cQB+AJEAAAADc3EAfgCTdAAEamF2YXNxAH4Ak3QABGxhbmdxAH4AmHNxAH4Aa3VxAH4ArwAAAARzcQB+AId0AANBcHBxAH4AjXNxAH4Ah3QAC0RlbGF5ZWRJbml0cQB+AI1zcQB+AId0AAZPYmplY3RxAH4As3NxAH4Ah3QAA0FueXEAfgCNdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAAZzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAALemVjMTguc2NhbGFzcQB+AMZ0AA96ZWMxOC5zY2FsYS5jb21zcQB+AMZ0ACh6ZWMxOC5zY2FsYS5jb20uZmxlcXVlc2JvYXJkLmFwcHMuc3lzdGVtc3EAfgDGdAAhemVjMTguc2NhbGEuY29tLmZsZXF1ZXNib2FyZC5hcHBzc3EAfgDGdAAcemVjMTguc2NhbGEuY29tLmZsZXF1ZXNib2FyZHNxAH4AxnQABXplYzE4c3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFkZkWtOnVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0ADwvaG9tZS9ibGFja2phY2svZGV2L3NjYWxhL3plY0F1ZGl0L3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRkTpbs82VHdNQKshFrfp2MALWifQ==
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlSjH5SdlLSkQCAAdJAAdhcGlIYXNoWgAIaGFzTWFjcm9aABBoYXNQYWNrYWdlT2JqZWN0TAAYX2ludGVybmFsT25seV9uYW1lSGFzaGVzdAAkTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoZXM7TAADYXBpdAAVTHhzYnRpL2FwaS9Tb3VyY2VBUEk7TAALY29tcGlsYXRpb250ABdMeHNidGkvYXBpL0NvbXBpbGF0aW9uO1sABGhhc2h0AAJbQnhwlu/VPgAAc3IAInhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoZXNU2r6Z+tTsTAIAAlsAD2ltcGxpY2l0TWVtYmVyc3QAI1tMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2g7WwAOcmVndWxhck1lbWJlcnNxAH4AB3hwdXIAI1tMeHNidGkuYXBpLl9pbnRlcm5hbE9ubHlfTmFtZUhhc2g7SVqAtt2Wi/QCAAB4cAAAAAB1cQB+AAkAAAAec3IAIHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoWw71InY4V88CAAJJAARoYXNoTAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwMrP+1XQAD3dlYW5QdW5jdHVhdGlvbnNxAH4ADO0FIS90AAZub3RpZnlzcQB+AAx/6j3hdAAJVGV4dFN0YXRzc3EAfgAMLcMwJXQADXdlYW5TdG9wV29yZHNzcQB+AAyJ4AuAdAAEd2FpdHNxAH4ADFzdZ410AA0kYXNJbnN0YW5jZU9mc3EAfgAMzQqYJXQABmVxdWFsc3NxAH4ADDE97Hd0AAxhc0luc3RhbmNlT2ZzcQB+AAwlOagTdAALZ2V0QWxsV29yZHNzcQB+AAwsbR3odAAPc29ydEJ5RnJlcXVlbmN5c3EAfgAM4x2yH3QADHN5bmNocm9uaXplZHNxAH4ADB/ga+90AA0kaXNJbnN0YW5jZU9mc3EAfgAMJH2ALnQAE3NvcnRCeUxlbmd0aE9mV29yZHNzcQB+AAy0TVtsdAAXd2VhblN0b3BXb3JkcyRkZWZhdWx0JDFzcQB+AAzcWZLvdAAJbm90aWZ5QWxsc3EAfgAMOGc1rHQADGlzSW5zdGFuY2VPZnNxAH4ADIFrpK10AB1zb3J0QnlMZW5ndGhPZldvcmRzJGRlZmF1bHQkMnNxAH4ADHKR7mR0AAY8aW5pdD5zcQB+AAymRUbGdAACPT1zcQB+AAww0kJPdAAFY2xvbmVzcQB+AAziEZrXdAATZ2V0V2VhbmVkV29yZHNSYXRpb3NxAH4ADIfWX4h0AAh0b1N0cmluZ3NxAH4ADF6rMI90AAIhPXNxAH4ADG85hcl0AAhnZXRDbGFzc3NxAH4ADAR2rFF0AAVjbG9zZXNxAH4ADG+kmlV0AAJuZXNxAH4ADNtJUJ50AAJlcXNxAH4ADH+hWu10AAIjI3NxAH4ADNdCe7J0AAhmaW5hbGl6ZXNxAH4ADKYbiv90AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AFN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc5fnYdwTJnuzAgABQgAFZmxhZ3N4cAB0ADJ6ZWMxOC5zY2FsYS5jb20uZmxlcXVlc2JvYXJkLmFwcHMuc3lzdGVtLlRleHRTdGF0c3VyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyACF4c2J0aS5hcGkuQWJzdHJhY3RMYXp5JFN0cmljdExhenkNZhxrKRYquAIAAUwABXZhbHVldAASTGphdmEvbGFuZy9PYmplY3Q7eHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBrc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AFNMAAlpbmhlcml0ZWRxAH4AU0wAB3BhcmVudHNxAH4AU3hxAH4AcHNxAH4Aa3VxAH4ATgAAAABzcQB+AGt1cQB+AE4AAAAAc3EAfgBrdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBvdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBvc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCIdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCJc3EAfgB8dAADQW55c3EAfgCAc3EAfgCDdXEAfgCGAAAAAnNxAH4AiHQABXNjYWxhcQB+AI91cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABnNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0AAt6ZWMxOC5zY2FsYXNxAH4AmXQAD3plYzE4LnNjYWxhLmNvbXNxAH4AmXQAKHplYzE4LnNjYWxhLmNvbS5mbGVxdWVzYm9hcmQuYXBwcy5zeXN0ZW1zcQB+AJl0ACF6ZWMxOC5zY2FsYS5jb20uZmxlcXVlc2JvYXJkLmFwcHNzcQB+AJl0ABx6ZWMxOC5zY2FsYS5jb20uZmxlcXVlc2JvYXJkc3EAfgCZdAAFemVjMThzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAWRmRa06dXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAPC9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvemVjQXVkaXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFHC691gz6xahRX/q6rPVOV5DzUux
+external apis:
+0 items
+source infos:
+2 items
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/Application.scala -> 
+AAAAAAAAAAA=
+/home/blackjack/dev/scala/zecAudit/src/main/scala/zec18/scala/com/flequesboard/apps/system/TextStats.scala -> 
+AAAAAAAAAAA=
+compilations:
+33 items
+00 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiFq9AR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+01 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiF6XhF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+02 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiOEDgZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+03 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiOSKwp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+04 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiOZCBx1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+05 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiOZq7x1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+06 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiObhzR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+07 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiOeRUR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+08 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiVNlYN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+09 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiVQXGV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+10 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYiVTC791cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+11 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYi8ptPh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+12 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYi90+pp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+13 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYi/pl3J1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+14 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjA2ebV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+15 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjBTiu51cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+16 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjBWmqd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+17 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjBYb451cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+18 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjPSW8d1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+19 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjPUwlF1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+20 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjPV4KZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+21 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjPW2bN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+22 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjPYHbN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+23 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQB1id1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+24 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQDBQB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+25 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQSKFZ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+26 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQS1mB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+27 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQr9Ux1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+28 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQ0UOh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+29 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjQ2ueR1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+30 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYjSRB5t1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+31 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABYloEgih1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQARS9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvQmlnRGF0YVNjaG9vbDIwMTgvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+32 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABZGZFrTp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAPC9ob21lL2JsYWNramFjay9kZXYvc2NhbGEvemVjQXVkaXQvdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
