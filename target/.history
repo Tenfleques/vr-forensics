@@ -170,3 +170,16 @@ set parallelExecution.in(ProjectRef(uri("file:/home/blackjack/dev/scala/zecAudit
 {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/testOnly zec18.scala.com.flequesboard.apps.system.TextStatsTest
 set parallelExecution.in(ProjectRef(uri("file:/home/blackjack/dev/scala/zecAudit/"), "zecaudit")) in Test:=true
 all {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/products {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/products {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+all {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/products {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/test:products
+run
+build
+compile
+run
+all {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/products {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/test:products
+;reload; set _root_.org.jetbrains.sbt.StructureKeys.sbtStructureOptions in Global := "download resolveClassifiers" ;*/*:dumpStructureTo /tmp/sbt-structure.xml; session clear-all
+build
+compile
+all {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/products {file:/home/blackjack/dev/scala/zecAudit/}zecaudit/test:products

@@ -1,10 +1,16 @@
 package zec18.scala.com.flequesboard.apps.system
 
 object Application extends App{
-  val songFile = "resources/station-to-station.lyrics"
-  val stopWordsFile = "resources/small-stopwords.txt"
+  println(CosineSimilarity.cosineSimilarity("bobra", "borba"))
 
-  val textStats = new TextStats(songFile)
-  val sensibilityRate = textStats.getWeanedWordsRatio(stopWordsFile)
+  /*val fieldDensity = new FieldDensity(Provinces.national)
+  val natIdField = References.FIELDS(References.NATIONAL_ID)
+  val duplicateNatIds = fieldDensity.getFieldFrequency(natIdField, 1L).map(a => a.get(0)).toList
+  println(duplicateNatIds.size)
+  fieldDensity.filterByField(References.NATIONAL_ID,duplicateNatIds).write.csv("results/duplicate_ids.csv")*/
+
+  //val fieldDensity = new FieldDensity(Provinces.harare)
+  //val natIdField = References.FIELDS(References.NATIONAL_ID)
+
 }
 

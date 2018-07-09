@@ -4,7 +4,7 @@
 		module="zecforensics$sources_2.11"
 		revision="1.0"
 		status="integration"
-		publication="20180704195912"
+		publication="20180705003054"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

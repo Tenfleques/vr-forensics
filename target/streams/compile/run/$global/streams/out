@@ -1,9 +1,10 @@
-[0m[[0minfo[0m] [0mRunning ru.bigdata.course.system.Application [0m
+[0m[[0minfo[0m] [0mRunning zec18.scala.com.flequesboard.apps.system.Application [0m
 [0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main-1 to terminate.[0m
 [0m[[0mdebug[0m] [0m  Classpath:[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/dev/scala/BigDataSchool2018/target/scala-2.11/classes[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/dev/scala/zecAudit/target/scala-2.11/classes[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.5.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-core_2.11/jars/spark-core_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.avro/avro/jars/avro-1.7.7.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.jackson/jackson-core-asl/jars/jackson-core-asl-1.9.13.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.jackson/jackson-mapper-asl/jars/jackson-mapper-asl-1.9.13.jar[0m
@@ -75,19 +76,19 @@
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.fusesource.leveldbjni/leveldbjni-all/bundles/leveldbjni-all-1.8.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-shuffle/jars/hadoop-mapreduce-client-shuffle-2.6.5.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.hadoop/hadoop-mapreduce-client-jobclient/jars/hadoop-mapreduce-client-jobclient-2.6.5.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-launcher_2.11/jars/spark-launcher_2.11-2.2.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-tags_2.11/jars/spark-tags_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-launcher_2.11/jars/spark-launcher_2.11-2.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-tags_2.11/jars/spark-tags_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.spark-project.spark/unused/jars/unused-1.0.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-network-common_2.11/jars/spark-network-common_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-network-common_2.11/jars/spark-network-common_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/io.netty/netty-all/jars/netty-all-4.0.43.Final.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.commons/commons-lang3/jars/commons-lang3-3.5.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/com.fasterxml.jackson.core/jackson-databind/bundles/jackson-databind-2.6.5.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/com.fasterxml.jackson.core/jackson-annotations/bundles/jackson-annotations-2.6.5.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/com.fasterxml.jackson.core/jackson-core/bundles/jackson-core-2.6.5.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.commons/commons-crypto/jars/commons-crypto-1.0.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-network-shuffle_2.11/jars/spark-network-shuffle_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-network-shuffle_2.11/jars/spark-network-shuffle_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/io.dropwizard.metrics/metrics-core/bundles/metrics-core-3.1.2.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-unsafe_2.11/jars/spark-unsafe_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-unsafe_2.11/jars/spark-unsafe_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/net.java.dev.jets3t/jets3t/jars/jets3t-0.9.3.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.httpcomponents/httpcore/jars/httpcore-4.3.3.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.httpcomponents/httpclient/jars/httpclient-4.3.6.jar[0m
@@ -138,14 +139,14 @@
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.ivy/ivy/jars/ivy-2.4.0.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/oro/oro/jars/oro-2.0.8.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/net.razorvine/pyrolite/jars/pyrolite-4.13.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/net.sf.py4j/py4j/jars/py4j-0.10.4.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/net.sf.py4j/py4j/jars/py4j-0.10.7.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.jettison/jettison/bundles/jettison-1.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-sql_2.11/jars/spark-sql_2.11-2.2.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/com.univocity/univocity-parsers/jars/univocity-parsers-2.2.1.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-sketch_2.11/jars/spark-sketch_2.11-2.2.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.janino/janino/jars/janino-3.0.0.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.janino/commons-compiler/jars/commons-compiler-3.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-sketch_2.11/jars/spark-sketch_2.11-2.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-catalyst_2.11/jars/spark-catalyst_2.11-2.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.janino/janino/jars/janino-3.0.8.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.codehaus.janino/commons-compiler/jars/commons-compiler-3.0.8.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.antlr/antlr4-runtime/jars/antlr4-runtime-4.5.3.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/commons-codec/commons-codec/jars/commons-codec-1.10.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.parquet/parquet-column/jars/parquet-column-1.8.2.jar[0m
@@ -154,109 +155,96 @@
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.parquet/parquet-hadoop/jars/parquet-hadoop-1.8.2.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.parquet/parquet-format/jars/parquet-format-2.3.1.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.parquet/parquet-jackson/jars/parquet-jackson-1.8.2.jar[0m
-[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.spark/spark-streaming_2.11/jars/spark-streaming_2.11-2.2.2.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/com.databricks/spark-csv_2.11/jars/spark-csv_2.11-1.5.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.apache.commons/commons-csv/jars/commons-csv-1.1.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/joda-time/joda-time/jars/joda-time-2.9.9.jar[0m
 [0m[[0mdebug[0m] [0m	/home/blackjack/.ivy2/cache/org.joda/joda-convert/jars/joda-convert-1.6.jar[0m
-[0m[[0mdebug[0m] [0mWaiting for thread run-main-0 to terminate.[0m
-[0m[[0mdebug[0m] [0m	Thread run-main-0 exited.[0m
+[0m[[0mdebug[0m] [0m	Thread run-main-1 exited.[0m
 [0m[[0mdebug[0m] [0mInterrupting remaining threads (should be all daemons).[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-0[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-0[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-129[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-129[0m
 [0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-2[0m
 [0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-123[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-123[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-4[0m
-[0m[[0mdebug[0m] [0mInterrupting thread dag-scheduler-event-loop[0m
-[0m[[0mdebug[0m] [0m	Interrupted dag-scheduler-event-loop[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-126[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-126[0m
-[0m[[0mdebug[0m] [0mInterrupting thread netty-rpc-env-timeout[0m
-[0m[[0mdebug[0m] [0m	Interrupted netty-rpc-env-timeout[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-624[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-624[0m
 [0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-5[0m
 [0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-5[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkListenerBus[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkListenerBus[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread heartbeat-receiver-event-loop-thread[0m
+[0m[[0mdebug[0m] [0m	Interrupted heartbeat-receiver-event-loop-thread[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread netty-rpc-env-timeout[0m
+[0m[[0mdebug[0m] [0m	Interrupted netty-rpc-env-timeout[0m
+[0m[[0mdebug[0m] [0mInterrupting thread org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner[0m
+[0m[[0mdebug[0m] [0m	Interrupted org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner[0m
 [0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-1[0m
 [0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-122[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-122[0m
-[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Timer-0[0m
-[0m[[0mdebug[0m] [0m	Interrupted Timer-0[0m
-[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-0[0m
-[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-0[0m
-[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-619[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-619[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Timer-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted Timer-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-7[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-7[0m
+[0m[[0mdebug[0m] [0mInterrupting thread driver-heartbeater[0m
+[0m[[0mdebug[0m] [0m	Interrupted driver-heartbeater[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-0[0m
 [0m[[0mdebug[0m] [0mInterrupting thread Spark Context Cleaner[0m
 [0m[[0mdebug[0m] [0m	Interrupted Spark Context Cleaner[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-124-acceptor-0@6671cce1-ServerConnector@68b62e5f{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-124-acceptor-0@6671cce1-ServerConnector@68b62e5f{HTTP/1.1,[http/1.1]}{0.0.0.0:4040}[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Thread-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted Thread-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-626[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-626[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-6[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-6[0m
+[0m[[0mdebug[0m] [0mInterrupting thread context-cleaner-periodic-gc[0m
+[0m[[0mdebug[0m] [0m	Interrupted context-cleaner-periodic-gc[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-620[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-620[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-625[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-625[0m
+[0m[[0mdebug[0m] [0mInterrupting thread Thread-39[0m
+[0m[[0mdebug[0m] [0m	Interrupted Thread-39[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-623[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-623[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-4[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-3[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-3[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-0[0m
+[0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-0[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkListenerBus[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkListenerBus[0m
+[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-1[0m
+[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-1[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-622[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-622[0m
+[0m[[0mdebug[0m] [0mInterrupting thread dag-scheduler-event-loop[0m
+[0m[[0mdebug[0m] [0m	Interrupted dag-scheduler-event-loop[0m
+[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-621-acceptor-0@782e73d2-ServerConnector@76e982a7{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}[0m
+[0m[[0mdebug[0m] [0m	Interrupted SparkUI-621-acceptor-0@782e73d2-ServerConnector@76e982a7{HTTP/1.1,[http/1.1]}{0.0.0.0:4041}[0m
+[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5-2[0m
+[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5-2[0m
+[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-4[0m
+[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-4[0m
 [0m[[0mdebug[0m] [0mInterrupting thread dispatcher-event-loop-3[0m
 [0m[[0mdebug[0m] [0m	Interrupted dispatcher-event-loop-3[0m
 [0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-1[0m
 [0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-7[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-7[0m
-[0m[[0mdebug[0m] [0mInterrupting thread task-result-getter-0[0m
-[0m[[0mdebug[0m] [0m	Interrupted task-result-getter-0[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker for task 4[0m
-[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker for task 4[0m
-[0m[[0mdebug[0m] [0mInterrupting thread Executor task launch worker for task 5[0m
-[0m[[0mdebug[0m] [0m	Interrupted Executor task launch worker for task 5[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread context-cleaner-periodic-gc[0m
-[0m[[0mdebug[0m] [0m	Interrupted context-cleaner-periodic-gc[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-client-4-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-client-4-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread heartbeat-receiver-event-loop-thread[0m
-[0m[[0mdebug[0m] [0m	Interrupted heartbeat-receiver-event-loop-thread[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-127[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-127[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-client-1-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-client-1-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread rpc-server-3-4[0m
-[0m[[0mdebug[0m] [0m	Interrupted rpc-server-3-4[0m
-[0m[[0mdebug[0m] [0mInterrupting thread driver-heartbeater[0m
-[0m[[0mdebug[0m] [0m	Interrupted driver-heartbeater[0m
-[0m[[0mdebug[0m] [0mInterrupting thread shuffle-server-5-1[0m
-[0m[[0mdebug[0m] [0m	Interrupted shuffle-server-5-1[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-6[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-6[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-3[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-3[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-125[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-125[0m
-[0m[[0mdebug[0m] [0mInterrupting thread map-output-dispatcher-2[0m
-[0m[[0mdebug[0m] [0m	Interrupted map-output-dispatcher-2[0m
-[0m[[0mdebug[0m] [0mInterrupting thread SparkUI-128[0m
-[0m[[0mdebug[0m] [0m	Interrupted SparkUI-128[0m
-[0m[[0mdebug[0m] [0mInterrupting thread org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner[0m
-[0m[[0mdebug[0m] [0m	Interrupted org.apache.hadoop.fs.FileSystem$Statistics$StatisticsDataReferenceCleaner[0m
 [0m[[0mdebug[0m] [0mSandboxed run complete..[0m
 [0m[[0mdebug[0m] [0mExited with code 0[0m
